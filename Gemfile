@@ -8,8 +8,7 @@ gem 'rails', '3.1.3'
 #gem 'activerecord-jdbcsqlite3-adapter'
 #gem 'jruby-openssl'
 
-gem 'openssl'
-gem 'sqlite3-ruby', '1.2.5', :group => :development
+#gem 'sqlite3-ruby', '1.2.5', :group => :development
 
 gem 'json'
 
